@@ -1,0 +1,1 @@
+Testando o comando git pull para atualizar o repositório local.
