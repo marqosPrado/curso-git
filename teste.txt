@@ -1,0 +1,10 @@
+Testando o comando git branch
+adicionando funcionalidade 1
+adicionando funcionalidade 2
+adicionando funcionalidade 3
+adicionando funcionalidade 4
+adicionando funcionalidade 5
+adicionando funcionalidade 6
+adicionando funcionalidade 7
+adicionando funcionalidade 8
+adicionando funcionalidade 9
